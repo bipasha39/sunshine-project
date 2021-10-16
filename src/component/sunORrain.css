@@ -1,0 +1,23 @@
+h1{
+    color: white;
+}
+.button{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid blue;
+    color: blue;
+  background: black;
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    transition: all 0.5s;
+    position: relative;
+}
+
+.image-container{
+    margin-top: 25px;
+}
+
+.image-design{
+    height: 350px;
+}
